@@ -1,6 +1,7 @@
 name: Deploy to Cloudflare Workers
 
 on:
+workflow_disoatch：
   push:
     branches:
       - master
